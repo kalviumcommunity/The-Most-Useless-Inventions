@@ -1,4 +1,4 @@
-# The Most Useless Inventions  
+## The Most Useless Inventions  
 
 ## Project Overview  
 This project is a simple, interactive webpage where users can explore a list of the most hilariously pointless inventions. Users can add their own inventions (stored locally), vote on their favorites, and sort them by popularity. Everything runs on the frontend using local storage.  
