@@ -1,0 +1,12 @@
+{
+  "name": "the-most-useless-inventions",
+  "version": "1.0.0",
+  "description": "This project is a simple, interactive webpage where users can explore a list of the most hilariously pointless inventions. Users can add their own inventions (stored locally), vote on their favorites, and sort them by popularity. Everything runs on the frontend using local storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
