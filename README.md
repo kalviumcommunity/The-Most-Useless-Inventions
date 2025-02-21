@@ -16,4 +16,4 @@ This project is a simple, interactive webpage where users can explore a list of 
 - **Storage:** LocalStorage (to save user-submitted inventions)  
 
 ## Why This Project?  
-This project is lightweight, fun, and still covers key web development concepts like DOM manipulation, event handling, and local storage. It allows me to practice structuring a project with just HTML, CSS, and JavaScript while keeping the experience engaging and interactive.  
+This project is lightweight, fun, and still covers key web development concepts like DOM manipulation, event handling, and local storage. It allows me to practice structuring a project with just HTML, CSS, and JavaScript while keeping the experience engaging and interactive. .. 
